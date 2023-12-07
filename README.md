@@ -56,7 +56,7 @@ Importante ressaltar que é necessário selecionar a linguagem "Python3" na plat
 
 ## Outros 
 
-Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui]().
+Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui](./video/Entrega%205%20-%20Programação%20Dinâmica.mp4).
 
 
 
