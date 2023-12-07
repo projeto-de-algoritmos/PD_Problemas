@@ -40,7 +40,7 @@ Na imagem abaixo é possível observar no canto superior esquerdo a dificuldade 
 
 Na imagem abaixo é possível observar no canto superior esquerdo a dificuldade atribuida a questão e o ícone de "check" que demonstra que o problema foi corretamente solucionado.
 
-![Problema 64](./img/64.png)
+![Problema 64](./img/64_atualizada.png)
 
 ## Instalação 
 
